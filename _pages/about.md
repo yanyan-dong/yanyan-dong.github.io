@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student, Information Science · University of Arizona
+subtitle: 
 
 profile:
   align: right
@@ -16,8 +16,7 @@ selected_papers: false
 social: true
 ---
 
-I am a PhD student in Information Science at the University of Arizona.  
-I am advised by [Steven Bethard](https://bethard.github.io/), and co-advised by [Sandra Bae](https://sandrabae.github.io/).
+I am a first-year Ph.D. student in Information Science at the [University of Arizona](https://infosci.arizona.edu/). I am advised by [Steven Bethard](https://bethard.github.io/), and co-advised by [Sandra Bae](https://sandrabae.github.io/).
 
 My research interests focus on applied NLP and LLM-based systems for real-world applications, particularly in health and safety.
 Recently, I have also been exploring HCI and visualization for interacting with LLM-based agents.
