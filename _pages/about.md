@@ -5,11 +5,10 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: profile_picture_yanyan.jpg
   image_circular: true
-  more_info: >
-    <p>University of Arizona</p>
+  more_info: 
 
 news: true
 selected_papers: false
