@@ -31,8 +31,26 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+.about-hero {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.about-body {
+  flex: 1 1 320px;
+  min-width: 260px;
+
+  .post-header {
+    margin-top: 0;
+  }
+}
+
 // Profile
 .profile {
+  flex: 0 0 auto;
+
   img {
     width: clamp(150px, 28vw, 220px);
     height: auto;
