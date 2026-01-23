@@ -9,7 +9,7 @@ nav_order: 3
 
 <div class="mb-4">
 <strong>Visualization for Interacting with LLM-based Agents</strong><br>
-Advisor: Sandra Bae  
+Advisor: Sandra Bae, Steven Bethard  
 <div class="mt-1" style="color: var(--global-theme-color); font-size:1rem;">Visualization-driven interfaces to help users inspect and understand LLM-based agent behavior at the intersection of HCI and NLP.</div>
 </div>
 
