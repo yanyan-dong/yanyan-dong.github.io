@@ -431,7 +431,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Yanyan_Dong_CV_personal.pdf", "_blank");
         },
       },{
         id: 'social-email',
