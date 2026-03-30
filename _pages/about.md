@@ -15,7 +15,7 @@ selected_papers: false
 social: true
 ---
 
-I am a first-year Ph.D. student in Information Science at the [University of Arizona](https://infosci.arizona.edu/). I am advised by [Dr. Steven Bethard](https://bethard.github.io/), with [Dr. Sandra Bae](https://sandrabae.github.io/) serving as my Cognitive Science minor advisor.
+I am a first-year Ph.D. student in Information Science at the [University of Arizona](https://infosci.arizona.edu/). I am advised by [Dr. Steven Bethard](https://bethard.github.io/) and [Dr. Sandra Bae](https://sandrabae.github.io/).
 
 Since my master’s program, I have worked closely with [Dr. Leonard Brown](https://infosci.arizona.edu/person/leonard-brown) on projects related to health and safety in the mining industry. I also work as a research assistant for the [School of Mining Engineering & Mineral Resources](https://mining.arizona.edu/), where I design and build LLM-based intelligent systems to support real-world operational and research needs.
 
