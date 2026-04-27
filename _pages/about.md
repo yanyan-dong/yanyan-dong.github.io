@@ -15,7 +15,7 @@ selected_papers: false
 social: true
 ---
 
-I am a first-year Ph.D. student in Information Science at the [University of Arizona](https://infosci.arizona.edu/). I am advised by [Dr. Steven Bethard](https://bethard.github.io/) and [Dr. Sandra Bae](https://sandrabae.github.io/) and [Dr. Leonard Brown](https://infosci.arizona.edu/person/leonard-brown).
+I am a first-year Ph.D. student in Information Science at the [University of Arizona](https://infosci.arizona.edu/). I am advised by [Dr. Steven Bethard](https://bethard.github.io/), [Dr. Sandra Bae](https://sandrabae.github.io/) and [Dr. Leonard Brown](https://infosci.arizona.edu/person/leonard-brown).
 
 I also work as a research assistant for the [School of Mining Engineering & Mineral Resources](https://mining.arizona.edu/), where I design and build LLM-based intelligent systems to support real-world operational and research needs.
 
